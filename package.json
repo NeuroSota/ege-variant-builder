@@ -1,0 +1,9 @@
+{
+  "name": "ege-variant-builder",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "mock": "node mock/server.mjs"
+  }
+}
